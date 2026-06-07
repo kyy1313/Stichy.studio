@@ -21,7 +21,7 @@ export default function Footer() {
           <h4 className="font-bold mb-4">Kontak</h4>
           <ul className="space-y-2 text-sm opacity-80">
             <li>WhatsApp: +62 812-3935-8245</li>
-            <li>Email: hello@stitchsy.studios.com</li>
+            <li>Email: <a href="mailto:stitchsy.studios@gmail.com" className="hover:text-terracotta">stitchsy.studios@gmail.com</a></li>
             <li>Instagram: <a href="https://instagram.com/stitchsy.studios" target="_blank" rel="noopener noreferrer" className="hover:text-terracotta">@stitchsy.studios</a></li>
           </ul>
         </div>
