@@ -12,7 +12,7 @@ export default function Navbar() {
         <div className="hidden md:flex space-x-6">
           <Link href="/" className="text-olive hover:text-terracotta transition-colors">Home</Link>
           <Link href="/katalog" className="text-olive hover:text-terracotta transition-colors">Katalog Produk</Link>
-          <Link href="/story" className="text-olive hover:text-terracotta transition-colors">Kisah Artisan</Link>
+          <Link href="/story" className="text-olive hover:text-terracotta transition-colors">Kisah Kami </Link>
           <Link href="/custom-order" className="text-olive hover:text-terracotta transition-colors">Custom Order</Link>
         </div>
         <div className="md:hidden">
